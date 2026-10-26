@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T05:07:38Z",
+  "updatedAt": "2026-10-26T06:20:00Z",
   "offres": [
     {
       "id": "loccitane-labege2-noel",
@@ -135,7 +135,7 @@
       "liensSecondaires": [],
       "remarques": "",
       "dateAjout": "2026-10-20",
-      "active": true
+      "active": false
     },
     {
       "id": "horace-saint-antoine-renfort",
@@ -515,7 +515,7 @@
       "liensSecondaires": [],
       "remarques": "Candidature sans CV (formulaire en ligne ou assistante virtuelle), courte évaluation par jeux puis « Découverte » en boutique. Téléphone de la boutique à confirmer (sources divergentes).",
       "dateAjout": "2026-10-22",
-      "active": true
+      "active": false
     },
     {
       "id": "promod-roques-responsable",
@@ -608,7 +608,7 @@
       "quartier": "Portet-sur-Garonne (centre commercial Carrefour)",
       "lat": 43.535847,
       "lng": 1.3928728,
-      "dateParution": "2026-09-25",
+      "dateParution": "2026-10-25",
       "dateDepart": null,
       "dateFin": null,
       "duree": "CDD 2 mois",
@@ -619,9 +619,11 @@
       "salaireMensuelBrut35h": null,
       "telephone": "05 61 72 01 83",
       "email": null,
-      "lien": "https://www.hellowork.com/fr-fr/emplois/82668999.html",
-      "liensSecondaires": [],
-      "remarques": "Groupe Beaumanoir. Part variable d'équipe, tickets restaurant. L'enseigne conseille de déposer le CV en ligne puis de contacter le magasin.",
+      "lien": "https://www.hellowork.com/fr-fr/emplois/84778788.html",
+      "liensSecondaires": [
+        "https://www.hellowork.com/fr-fr/emplois/82668999.html"
+      ],
+      "remarques": "Groupe Beaumanoir. Part variable d'équipe, tickets restaurant. L'enseigne conseille de déposer le CV en ligne puis de contacter le magasin. Annonce republiée le 25/10/2026 (l'ancienne annonce est close).",
       "dateAjout": "2026-10-23",
       "active": true
     },
@@ -818,6 +820,87 @@
       "liensSecondaires": [],
       "remarques": "Chocolatier. Renfort fêtes de fin d'année. Confection de coffrets, encaissement, mise en rayon.",
       "dateAjout": "2026-10-23",
+      "active": true
+    },
+    {
+      "id": "american-vintage-pomme-conseillere",
+      "enseigne": "American Vintage",
+      "poste": "Conseillère de vente 20 h (CDD novembre à janvier)",
+      "contrat": "CDD",
+      "thematique": "pret-a-porter",
+      "adresse": "5 rue de la Pomme, 31000 Toulouse",
+      "quartier": "Capitole / Carmes (centre-ville)",
+      "lat": 43.6021077,
+      "lng": 1.4467423,
+      "dateParution": "2026-10-24",
+      "dateDepart": null,
+      "dateFin": null,
+      "duree": "CDD novembre à janvier",
+      "heuresSemaine": 20,
+      "heuresTexte": "20 h/sem",
+      "salaireTexte": "Salaire non précisé",
+      "salaireCategorie": "non-precise",
+      "salaireMensuelBrut35h": null,
+      "telephone": null,
+      "email": null,
+      "lien": "https://www.hellowork.com/fr-fr/emplois/84778675.html",
+      "liensSecondaires": [],
+      "remarques": "Renfort de fin d'année. Première expérience retail appréciée, bonus hebdomadaire lié aux résultats de la boutique.",
+      "dateAjout": "2026-10-26",
+      "active": true
+    },
+    {
+      "id": "mango-toulouse-vendeuse",
+      "enseigne": "Mango",
+      "poste": "Vendeuse polyvalente 22 h",
+      "contrat": "CDD",
+      "thematique": "pret-a-porter",
+      "adresse": null,
+      "quartier": "Toulouse (boutique non précisée)",
+      "lat": null,
+      "lng": null,
+      "dateParution": "2026-10-24",
+      "dateDepart": null,
+      "dateFin": null,
+      "duree": null,
+      "heuresSemaine": 22,
+      "heuresTexte": "22 h/sem",
+      "salaireTexte": "Salaire non précisé",
+      "salaireCategorie": "non-precise",
+      "salaireMensuelBrut35h": null,
+      "telephone": null,
+      "email": null,
+      "lien": "https://www.hellowork.com/fr-fr/emplois/81661075.html",
+      "liensSecondaires": [],
+      "remarques": "Boutique de Toulouse non précisée dans l'annonce. Rémunération sur 13 mois, tickets restaurant, 50 % du transport pris en charge.",
+      "dateAjout": "2026-10-26",
+      "active": true
+    },
+    {
+      "id": "petit-bateau-toulouse-vendeuse",
+      "enseigne": "Petit Bateau",
+      "poste": "Vendeuse 19 h",
+      "contrat": "CDD",
+      "thematique": "pret-a-porter",
+      "adresse": null,
+      "quartier": "Toulouse (boutique non précisée)",
+      "lat": null,
+      "lng": null,
+      "dateParution": "2026-10-21",
+      "dateDepart": null,
+      "dateFin": null,
+      "duree": null,
+      "heuresSemaine": 19,
+      "heuresTexte": "19 h/sem",
+      "salaireTexte": "Salaire non précisé",
+      "salaireCategorie": "non-precise",
+      "salaireMensuelBrut35h": null,
+      "telephone": null,
+      "email": null,
+      "lien": "https://www.hellowork.com/fr-fr/emplois/84644142.html",
+      "liensSecondaires": [],
+      "remarques": "Mode enfant et adulte. Boutique de Toulouse non précisée. Anglais demandé pour mener une vente de A à Z.",
+      "dateAjout": "2026-10-26",
       "active": true
     }
   ]
